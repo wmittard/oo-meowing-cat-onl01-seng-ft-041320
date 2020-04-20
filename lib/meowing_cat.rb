@@ -6,8 +6,8 @@ class Cat
   def name 
     @name 
   end 
-  def meow=(cat_meow)
-    @meow = cat_meow
+  def meow
+    puts "meow!"
   end 
   def meow
     @meow 
