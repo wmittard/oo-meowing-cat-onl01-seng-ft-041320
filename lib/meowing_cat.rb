@@ -9,7 +9,4 @@ class Cat
   def meow
     puts "meow!"
   end 
-  def meow
-    @meow 
-  end 
 end 
